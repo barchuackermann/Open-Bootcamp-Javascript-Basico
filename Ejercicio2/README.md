@@ -1,5 +1,7 @@
 # Ejercicio 2 - JavaScript Básico
 
+## Notación
+
 ---
 
 Crea un nuevo archivo JS que contenga una lista con los siguientes elementos:

@@ -1,5 +1,7 @@
 # Ejercicio 4 - Curso de JavaScript Básico
 
+## Strings
+
 ---
 
 Crea un archivo JS que contenga las siguientes líneas:

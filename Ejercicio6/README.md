@@ -1,5 +1,7 @@
 # Ejercicio 6 - Curso de JavaScript Básico
 
+## ##Listas
+
 ---
 
 Crea un archivo JS que contenga las siguientes líneas

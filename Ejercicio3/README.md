@@ -1,5 +1,7 @@
 # Ejercicio 3 - Curso de JavaScript Básico
 
+## Estructuras de control
+
 ---
 
 Crea los siguientes archivos JS:

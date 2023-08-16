@@ -1,5 +1,7 @@
 # Ejercicio 5 - Curso de JavaScript Básico
 
+## Numbers
+
 ---
 
 Crea un archivo JS que contenga las siguientes líneas:
