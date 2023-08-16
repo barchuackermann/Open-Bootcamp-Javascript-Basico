@@ -1,4 +1,4 @@
-# Ejercicio tema 1 - JavaScript Básico
+# Ejercicio 1 - JavaScript Básico
 
 ---
 

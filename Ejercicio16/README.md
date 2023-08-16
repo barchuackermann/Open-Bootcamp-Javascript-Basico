@@ -1,4 +1,7 @@
-Ejercicio: Aplicando Drag & Drop
+# Ejercicio 16 - Curso de JavaScript Básico
+
+---
+
 Replica el ejercicio completo del vídeo
 
 Añade dos párrafos más en cada una de las secciones

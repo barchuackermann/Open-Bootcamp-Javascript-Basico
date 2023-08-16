@@ -1,4 +1,7 @@
-Ejercicio: Configuración y uso de ESLint
+# Ejercicio 12 - Curso de JavaScript Básico
+
+---
+
 Crea un nuevo proyecto de Node
 
 Instala la dependencia ESLint (https://www.npmjs.com/package/eslint)

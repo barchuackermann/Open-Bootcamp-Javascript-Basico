@@ -1,13 +1,16 @@
-Ejercicio: POO en JavaScript
-Crea un nuevo fichero JS que contenga las siguientes líneas
+# Ejercicio 11 - Curso de JavaScript Básico
 
-Una clase llamada "Estudiante" que tenga:
+---
 
-Una variable llamada nombre
+Crea un nuevo fichero JS que contenga las siguientes líneas:
 
-Otra variable lista llamada asignaturas con 3 asignaturas: Javascript, HTML, CSS
+- Una clase llamada "Estudiante" que tenga:
 
-Un método "obtenDatos" que devuelva un objeto con las propiedades nombre y asignaturas
+  Una variable llamada nombre
+
+  Otra variable lista llamada asignaturas con 3 asignaturas: Javascript, HTML, CSS
+
+- Un método "obtenDatos" que devuelva un objeto con las propiedades nombre y asignaturas
 
 Crea una nueva instancia de "Estudiante"
 

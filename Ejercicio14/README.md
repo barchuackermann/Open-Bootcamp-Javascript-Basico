@@ -1,4 +1,7 @@
-Ejercicio: Gestión de eventos
+# Ejercicio 14 - Curso de JavaScript Básico
+
+---
+
 Crea un nuevo proyecto de Node
 
 Instala la dependencia HTTP Server en entorno global (https://www.npmjs.com/package/http-server)

@@ -1,4 +1,7 @@
-Ejercicio: Persistencia de datos en navegador
+# Ejercicio 15 - Curso de JavaScript Básico
+
+---
+
 Crea un nuevo proyecto de Node
 
 Crea un fichero index.html (utiliza el comando "!")
@@ -9,17 +12,17 @@ Integra el fichero index.js en el html
 
 En el fichero index.js:
 
-Crea una variable con tu nombre
+- Crea una variable con tu nombre
 
-Crea una variable con tu apellido
+- Crea una variable con tu apellido
 
-Crea un objeto con tu nombre y tu apellido
+- Crea un objeto con tu nombre y tu apellido
 
-Almacena el objeto anterior en la SessionStorage
+- Almacena el objeto anterior en la SessionStorage
 
-Almacena el objeto anterior en la LocalStorage
+- Almacena el objeto anterior en la LocalStorage
 
-Crea una cookie que caduque en 2 minutos con los datos del objeto anterior
+- Crea una cookie que caduque en 2 minutos con los datos del objeto anterior
 
 Observa en Google Chrome cómo se almacenan los datos en la SessionStorage, LocalStorage y las cookies
 

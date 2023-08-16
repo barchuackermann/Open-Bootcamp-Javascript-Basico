@@ -1,4 +1,7 @@
-Ejercicio: Módulos en JavaScript
+# Ejercicio 13 - Curso de JavaScript Básico
+
+---
+
 Crea un nuevo proyecto de Node
 
 Configura el proyecto para utilizar los módulos de ES6
