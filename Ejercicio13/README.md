@@ -1,5 +1,7 @@
 # Ejercicio 13 - Curso de JavaScript Básico
 
+## ES EL MISMO QUE EL EJERCICIO 10
+
 ---
 
 Crea un nuevo proyecto de Node
